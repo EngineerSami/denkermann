@@ -1,0 +1,43 @@
+[2026-05-04T15:32:50.099Z] {"timestamp":1777908767944,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-05-04T15:32:50.099Z] {"timestamp":1777908767961,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-05-04T15:32:50.099Z] {"timestamp":1777908769845,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-05-04T15:33:07.227Z] {"timestamp":1777908784591,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-05-04T15:33:07.227Z] {"timestamp":1777908784640,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-05-04T15:33:07.227Z] {"timestamp":1777908784910,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-05-04T15:35:34.575Z] {"timestamp":1777908931976,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-05-04T15:35:34.575Z] {"timestamp":1777908931987,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-05-04T15:35:34.575Z] {"timestamp":1777908933248,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-05-04T15:35:36.696Z] {"timestamp":1777908936281,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-05-04T15:35:42.653Z] {"timestamp":1777908939283,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-05-04T15:35:42.653Z] {"timestamp":1777908939289,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-05-04T15:35:42.653Z] {"timestamp":1777908939358,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-05-04T15:35:42.653Z] {"timestamp":1777908939385,"level":"ERROR","args":[{"type":"UncaughtError","message":"Uncaught SyntaxError: Unexpected token '<'","filename":"http://localhost:3000/analytics/umami","lineno":1,"colno":1,"stack":"SyntaxError: Unexpected token '<'"}],"stack":"SyntaxError: Unexpected token '<'"}
+[2026-05-04T15:37:32.432Z] {"timestamp":1777909035681,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:37:32.433Z] {"timestamp":1777909043602,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-05-04T15:37:36.095Z] {"timestamp":1777909053475,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-05-04T15:37:36.095Z] {"timestamp":1777909053517,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-05-04T15:37:36.095Z] {"timestamp":1777909054515,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-05-04T15:37:36.095Z] {"timestamp":1777909054535,"level":"ERROR","args":[{"type":"UncaughtError","message":"Uncaught SyntaxError: Unexpected token '<'","filename":"http://localhost:3000/analytics/umami","lineno":1,"colno":1,"stack":"SyntaxError: Unexpected token '<'"}],"stack":"SyntaxError: Unexpected token '<'"}
+[2026-05-04T15:37:50.129Z] {"timestamp":1777909068390,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:37:58.108Z] {"timestamp":1777909077578,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:41:25.490Z] {"timestamp":1777909284193,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-05-04T15:41:25.490Z] {"timestamp":1777909284194,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:42:44.151Z] {"timestamp":1777909363409,"level":"DEBUG","args":["[vite]","hot updated: /src/components/AboutSection.tsx"],"stack":null}
+[2026-05-04T15:42:44.151Z] {"timestamp":1777909363410,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:42:52.133Z] {"timestamp":1777909372082,"level":"DEBUG","args":["[vite]","hot updated: /src/components/AboutSection.tsx"],"stack":null}
+[2026-05-04T15:42:52.133Z] {"timestamp":1777909372082,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:44:00.121Z] {"timestamp":1777909438257,"level":"DEBUG","args":["[vite]","hot updated: /src/components/QualitySection.tsx"],"stack":null}
+[2026-05-04T15:44:00.121Z] {"timestamp":1777909438258,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:45:50.232Z] {"timestamp":1777909546250,"level":"DEBUG","args":["[vite]","hot updated: /src/components/TechnologySection.tsx"],"stack":null}
+[2026-05-04T15:45:50.232Z] {"timestamp":1777909546250,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909965530,"level":"DEBUG","args":["[vite]","hot updated: /src/components/AboutSection.tsx"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909965530,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909966714,"level":"DEBUG","args":["[vite]","hot updated: /src/components/AboutSection.tsx"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909966714,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909979187,"level":"DEBUG","args":["[vite]","hot updated: /src/components/ContactSection.tsx"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909979187,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909980753,"level":"DEBUG","args":["[vite]","hot updated: /src/components/ContactSection.tsx"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909980753,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909985442,"level":"DEBUG","args":["[vite]","hot updated: /src/components/HeroSection.tsx"],"stack":null}
+[2026-05-04T15:53:05.937Z] {"timestamp":1777909985443,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T15:53:17.486Z] {"timestamp":1777909996659,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
