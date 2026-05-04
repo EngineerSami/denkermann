@@ -41,3 +41,7 @@
 [2026-05-04T15:53:05.937Z] {"timestamp":1777909985442,"level":"DEBUG","args":["[vite]","hot updated: /src/components/HeroSection.tsx"],"stack":null}
 [2026-05-04T15:53:05.937Z] {"timestamp":1777909985443,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
 [2026-05-04T15:53:17.486Z] {"timestamp":1777909996659,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-05-04T16:51:58.366Z] {"timestamp":1777913516341,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-05-04T16:51:58.366Z] {"timestamp":1777913516367,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-05-04T16:51:58.366Z] {"timestamp":1777913517243,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-05-04T16:51:58.366Z] {"timestamp":1777913517281,"level":"ERROR","args":[{"type":"UncaughtError","message":"Uncaught SyntaxError: Unexpected token '<'","filename":"http://localhost:3000/analytics/umami","lineno":1,"colno":1,"stack":"SyntaxError: Unexpected token '<'"}],"stack":"SyntaxError: Unexpected token '<'"}
